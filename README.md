@@ -1,6 +1,6 @@
 # BreathingLight
 LED呼吸燈
-![image](https://github.com/wesley4406/BreathingLight/blob/main/video-1608605068.mp4)
+![image](https://github.com/wesley4406/BreathingLight/blob/main/ezgif.com-video-to-gif.gif)
 
 ***
 int value=255;  
