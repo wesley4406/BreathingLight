@@ -3,6 +3,7 @@ LED呼吸燈
 ![image](https://github.com/wesley4406/BreathingLight/blob/main/ezgif.com-video-to-gif.gif)
 
 ***
+```c++
 int value=255;  
 int x=-15;  
   
@@ -16,4 +17,5 @@ analogWrite(3,value);
 delay(10);   
 value=value-x;  
 }  
+```
 ***
